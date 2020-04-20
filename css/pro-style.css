@@ -50,20 +50,6 @@ h1, h2, h3, h4{
     height: 45vh;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .pro-head{
     height: 45vh;
 }
@@ -139,7 +125,12 @@ h1, h2, h3, h4{
     height: 100%;
 }
 
-
+.container-2 p{
+    margin-top: -35px;
+    margin-bottom: 20px;
+    color: ivory;
+    background:  linear-gradient(150deg, rgb(70, 50, 27), rgba(119, 86, 48, 0.692)) ;
+}
   
 .text-2 {
     font-family: normal;
@@ -225,6 +216,11 @@ footer{
          flex-wrap: wrap;
         max-width: 1000px;
         margin: auto;
+    }
+    .container-2 p{
+        margin-top: 0;
+        margin-bottom: 0px;
+        
     }
   
 
